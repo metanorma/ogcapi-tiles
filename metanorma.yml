@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - metanorma/ogcapi-tiles/document.adoc
+
+  collection:
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - Tiles (model-based publication)"
