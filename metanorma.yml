@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - core/standard/20-057.adoc
       - metanorma/ogcapi-tiles/document.adoc
 
   collection:
