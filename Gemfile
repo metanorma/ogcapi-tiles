@@ -45,8 +45,3 @@ gem "pubid", "~> 2.0"
 gem "debug"
 gem "ffi"
 gem "sassc-embedded"
-
-# svg_conform 0.2.5 (2026-11-01) declares a lens_core dependency that is
-# not published on rubygems, making it uninstallable; 0.2.4 is the last
-# installable release and accepts moxml 0.6.x (~> 0.5 is two-segment)
-gem "svg_conform", "0.2.4"
